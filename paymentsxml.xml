@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paymentsxml>
+  <Payments>123</Payments>
+  <cost>120000</cost>
+  <ssn>3763</ssn>
+  <paymentsxml>
+    <Payments>123</Payments>
+    <cost>120000</cost>
+    <ssn>3763</ssn>
+  </paymentsxml>
+</paymentsxml>

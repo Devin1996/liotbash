@@ -1,0 +1,2 @@
+db.modules.insert([{Code:54,Title:'C',GPA:4},{Code:34,Title:'JAVA',GPA:3},{Code:43,Title:'PHP',GPA:4},{Code:54,Title:'SQL',GPA:3},
+{Code:12,Title:'Mongo',GPA:2},{Code:23,Title:'HTML',GPA:1},{Code:42,Title:'XML',GPA:3}]);

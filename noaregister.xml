@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<noaregister>
+  <nacedamic>
+    <ssn>123</ssn>
+    <fname>Amal</fname>
+    <lname>chandula</lname>
+    <bday>05/25/1996</bday>
+    <address>Hakmana</address>
+    <gender>Male</gender>
+    <age>23</age>
+    <salary>50</salary>
+    <email>chandula@mail.com</email>
+    <group>CeylonE</group>
+    <worktype>Bulb Check</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>2241212</ssn>
+    <fname>Meena</fname>
+    <lname>Kumari</lname>
+    <bday/>
+    <address>Mulathiv</address>
+    <email>mk@otmail.com</email>
+    <gender>female</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position/>
+    <group>Clean lanka</group>
+    <worktype/>
+  </nacedamic>
+  <nacedamic>
+    <ssn>2241212</ssn>
+    <fname>Meena</fname>
+    <lname>Kumari</lname>
+    <bday/>
+    <address>Mulathiv</address>
+    <email>mk@hotmail.com</email>
+    <gender>female</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position/>
+    <group>Clean lanka</group>
+    <worktype/>
+  </nacedamic>
+  <nacedamic>
+    <ssn>2241212</ssn>
+    <fname>Meena</fname>
+    <lname>Kumari</lname>
+    <bday/>
+    <address>Mulathiv</address>
+    <email>mk@hotmail.com</email>
+    <gender>female</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position/>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>2241212</ssn>
+    <fname>Meena</fname>
+    <lname>Kumari</lname>
+    <bday/>
+    <address>Mulathiv</address>
+    <email>mk@hotmail.com</email>
+    <gender>female</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position/>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>2241212</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>1989-05-04</bday>
+    <address>Hiikkadwa</address>
+    <email>am@yahoo.com</email>
+    <gender>female</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>2241212</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>1989-05-04</bday>
+    <address>Hiikkadwa</address>
+    <email>am@yahoo.com</email>
+    <gender>female</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>224121</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>1989-05-04</bday>
+    <address>Hiikkadwa</address>
+    <email>am@yahoo.com</email>
+    <gender>female</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>7900005</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>1989-05-04</bday>
+    <address>Hiikkadwa</address>
+    <email>am@yahoo.com</email>
+    <gender>female</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>7900005</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>1989-05-04</bday>
+    <address>Hiikkadwa</address>
+    <email>am@yahoo.com</email>
+    <gender>female</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>7900005</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>1989-05-04</bday>
+    <address>Hiikkadwa</address>
+    <email>am@yahoo.com</email>
+    <gender>female</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>1136794</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>1992-04-05</bday>
+    <address>Mulathiv</address>
+    <email>mk@hotmail.com</email>
+    <gender>male</gender>
+    <age>26</age>
+    <salary>10000</salary>
+    <position>Cleaner</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>1136794</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>1992-04-05</bday>
+    <address>Mulathiv</address>
+    <email>mk@hotmail.com</email>
+    <gender>male</gender>
+    <age>26</age>
+    <salary>10000</salary>
+    <position>Cleaner</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>2241212123</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>2020-05-02</bday>
+    <address>Yakkalamulla</address>
+    <email>mk@hotmail.com</email>
+    <gender>male</gender>
+    <age>26</age>
+    <salary>10000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>2241212123</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>2020-05-02</bday>
+    <address>Yakkalamulla</address>
+    <email>mk@hotmail.com</email>
+    <gender>male</gender>
+    <age>26</age>
+    <salary>10000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>2241212123</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>2020-05-02</bday>
+    <address>Yakkalamulla</address>
+    <email>mk@hotmail.com</email>
+    <gender>male</gender>
+    <age>26</age>
+    <salary>10000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>2241212123</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>2020-05-02</bday>
+    <address>Yakkalamulla</address>
+    <email>mk@hotmail.com</email>
+    <gender>male</gender>
+    <age>26</age>
+    <salary>10000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>123456</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>2020-05-02</bday>
+    <address>Yakkalamulla</address>
+    <email>mk@hotmail.com</email>
+    <gender>male</gender>
+    <age>26</age>
+    <salary>10000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>234567</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>66555-05-02</bday>
+    <address>Yakkalamulla</address>
+    <email>am123@yahoo.com</email>
+    <gender>male</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>234567</ssn>
+    <fname>Meena</fname>
+    <lname>Mendis</lname>
+    <bday>66555-05-02</bday>
+    <address>Yakkalamulla</address>
+    <email>am123@yahoo.com</email>
+    <gender>male</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>2241212</ssn>
+    <fname>Amali</fname>
+    <lname>Kumari</lname>
+    <bday>41996-04-05</bday>
+    <address>Hiikkadwa</address>
+    <email>am123@yahoo.com</email>
+    <gender>male</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>2241212</ssn>
+    <fname>Amali</fname>
+    <lname>Kumari</lname>
+    <bday>41996-04-05</bday>
+    <address>Hiikkadwa</address>
+    <email>am123@yahoo.com</email>
+    <gender>male</gender>
+    <age>23</age>
+    <salary>25000</salary>
+    <position>Electrician</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>5736</ssn>
+    <fname>Meena</fname>
+    <lname>Fonseka</lname>
+    <bday>1980-02-02</bday>
+    <address>Colombo</address>
+    <email>am@liot.com</email>
+    <gender>female</gender>
+    <age>39</age>
+    <salary>10000</salary>
+    <position>Cleaner</position>
+    <group>Clean lanka</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>5355</ssn>
+    <fname>Kusal</fname>
+    <lname>Perers</lname>
+    <bday>1980-02-02</bday>
+    <address>Colombo</address>
+    <email>kusal@liot.com</email>
+    <gender>male</gender>
+    <age>39</age>
+    <salary>15000</salary>
+    <position>Electrician</position>
+    <group>Tech Lanka</group>
+    <worktype>Electronic Maintain</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>5527</ssn>
+    <fname>Lasith</fname>
+    <lname>Mendis</lname>
+    <bday>1970-02-02</bday>
+    <address>Trinco</address>
+    <email>mkmdn@liot.com</email>
+    <gender>male</gender>
+    <age>49</age>
+    <salary>15000</salary>
+    <position>Chef</position>
+    <group>Food Lanka</group>
+    <worktype>Cooking</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>5917</ssn>
+    <fname>Sanath</fname>
+    <lname>atapattu</lname>
+    <bday>1970-02-02</bday>
+    <address>Matara</address>
+    <email>sjma@liot.com</email>
+    <gender>male</gender>
+    <age>49</age>
+    <salary>15000</salary>
+    <position>Receptionist</position>
+    <group>We serve</group>
+    <worktype>Students care</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>5900</ssn>
+    <fname>kamala</fname>
+    <lname>mathews</lname>
+    <bday>1960-02-02</bday>
+    <address>Galle</address>
+    <email>kamala@liot.com</email>
+    <gender>male</gender>
+    <age>59</age>
+    <salary>15000</salary>
+    <position>Technician</position>
+    <group>We Tech</group>
+    <worktype>Computer HW maintain</worktype>
+  </nacedamic>
+  <nacedamic>
+    <ssn>5005</ssn>
+    <fname>Suranga</fname>
+    <lname>Malinga</lname>
+    <bday>1990-03-03</bday>
+    <address>Yakkalamulla</address>
+    <email>s@liot</email>
+    <gender>male</gender>
+    <age>29</age>
+    <salary>60000</salary>
+    <position>Chef</position>
+    <group>We Tech</group>
+    <worktype>clean the labs</worktype>
+  </nacedamic>
+</noaregister>

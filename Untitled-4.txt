@@ -1,0 +1,10 @@
+db.labs.insertOne({ESSN:54,HallNO:65,Sssn:45,Module:123});
+db.labs.insert([{ESSN:54,HallNO:65,Sssn:45,Module:123},{ESSN:34,HallNO:45,Sssn:65,Module:355},{ESSN:43,HallNO:63,Sssn:65,Module:783},{ESSN:54,HallNO:65,Sssn:34,Module:456},
+{ESSN:12,HallNO:65,Sssn:12,Module:223},{ESSN:23,HallNO:34,Sssn:75,Module:243},{ESSN:42,HallNO:54,Sssn:98,Module:653}]);
+
+db.tutes.insert([{ESSN:54,HallNO:65,Sssn:45,Module:123},{ESSN:34,HallNO:45,Sssn:65,Module:355},{ESSN:43,HallNO:63,Sssn:65,Module:783},{ESSN:54,HallNO:65,Sssn:34,Module:456},
+{ESSN:12,HallNO:65,Sssn:12,Module:223},{ESSN:23,HallNO:34,Sssn:75,Module:243},{ESSN:42,HallNO:54,Sssn:98,Module:653}]);
+
+db.lectures.insert([{ESSN:54,HallNO:65,Sssn:45,Module:123},{ESSN:34,HallNO:45,Sssn:65,Module:355},{ESSN:43,HallNO:63,Sssn:65,Module:783},{ESSN:54,HallNO:65,Sssn:34,Module:456},
+{ESSN:12,HallNO:65,Sssn:12,Module:223},{ESSN:23,HallNO:34,Sssn:75,Module:243},{ESSN:42,HallNO:54,Sssn:98,Module:653}]);
+
