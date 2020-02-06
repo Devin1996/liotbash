@@ -1,4 +1,4 @@
-<html>
+  <html>
 <head>
 
 	<title>LIOT</title>
@@ -112,7 +112,7 @@ img {vertical-align: middle;}
    <li><a href="tuteform.php">Tutes</a></li>
    <li><a href="lecform.php">Lectures</a></li>
 
- 	<li style="float:right"><a href="AdminLoginPHP.php">Admin logout</a></li>
+ 	<li style="float:right"><a href="AdminLogoutPHP.php">Admin logout</a></li>
 </ul>
 
 <div class="row">

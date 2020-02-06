@@ -1,3 +1,5 @@
+cmd-> mongod
+ 
 show dbs
 use liot
 show collections
